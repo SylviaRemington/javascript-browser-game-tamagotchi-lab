@@ -1,3 +1,5 @@
+Need to do Markup on this
+
 🎮 Game Overview — “Glitzarella” (Working Title)
 This is a magical, browser-based drag-pet game where you care for a fabulous drag queen creature. Instead of food, you feed it glitter. Instead of health, you manage sparkle, mood, and energy. You interact with the pet through mini actions like dancing, mirror talk, makeup touch-ups, or dramatic rest.
 
@@ -100,3 +102,4 @@ Sad	Makeup running, lashes drooping	“Don’t look at me unless you brought sna
 Fierce	Costume glows, eyes flash	“Who said I’m too much? Name them.”
 Meltdown	Wig crooked, glitter explosion	“I can’t sparkle for everyone, okay?!” 😭
 Recovering	Soft glow returns, soft blush	“Thank you for seeing me… Now more glitter please.”
+
