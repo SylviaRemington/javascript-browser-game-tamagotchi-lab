@@ -5,7 +5,7 @@
 
 ### The goal is not to win, but to keep your pet fabulous, emotionally nourished, and stage-ready… unless it has a meltdown. In that case? Reapply mascara, feed it some glitter, and try again.
 
-
+<hr>
 
 ## 🧠 Pseudocoded Prototype (In Plain English)
 
