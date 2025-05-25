@@ -1,50 +1,48 @@
-Need to do Markup on this
+## 🎮 Game Overview — “Glitzarella” (Working Title)
+### This is a magical, browser-based drag-pet game where you care for a fabulous drag queen creature. Instead of food, you feed it glitter. Instead of health, you manage sparkle, mood, and energy. You interact with the pet through mini actions like dancing, mirror talk, makeup touch-ups, or dramatic rest.
 
-🎮 Game Overview — “Glitzarella” (Working Title)
-This is a magical, browser-based drag-pet game where you care for a fabulous drag queen creature. Instead of food, you feed it glitter. Instead of health, you manage sparkle, mood, and energy. You interact with the pet through mini actions like dancing, mirror talk, makeup touch-ups, or dramatic rest.
+### As the pet’s moods shift — based on how much you care for it — its appearance, behavior, and sparkle level change.
 
-As the pet’s moods shift — based on how much you care for it — its appearance, behavior, and sparkle level change.
-
-The goal is not to win, but to keep your pet fabulous, emotionally nourished, and stage-ready… unless it has a meltdown. In that case? Reapply mascara, feed it some glitter, and try again.
+### The goal is not to win, but to keep your pet fabulous, emotionally nourished, and stage-ready… unless it has a meltdown. In that case? Reapply mascara, feed it some glitter, and try again.
 
 hr
 
-🧠 Pseudocoded Prototype (In Plain English)
-When the game starts:
+## 🧠 Pseudocoded Prototype (In Plain English)
 
-Show your drag pet on screen
+###When the game starts:
 
-Ask the player to name their pet
+- Show your drag pet on screen
 
-Show three stats: Mood, Sparkle, Energy
+- Ask the player to name their pet
 
-Player can take actions:
+- Show three stats: Mood, Sparkle, Energy
 
-Feed glitter → raises Sparkle
+### Player can take actions:
 
-Dance → raises Mood, lowers Energy
+- Feed glitter → raises Sparkle
 
-Rest → raises Energy, resets Mood
+- Dance → raises Mood, lowers Energy
 
-Mirror check → shows emotional state message
+- Rest → raises Energy, resets Mood
 
-Do makeup → boosts Mood + appearance
+- Mirror check → shows emotional state message
 
-Behind the scenes:
+- Do makeup → boosts Mood + appearance
+
+### Behind the scenes:
 
 If Mood or Energy drops too low → makeup starts to fade, dance fails, pet sighs dramatically
 
 If Sparkle is full → unlocks new outfits, special disco ball dance mode
 
 If player ignores the pet:
-
 Stats drop slowly
 
 Pet starts getting shady, weepy, or dramatically silent
 
 Eventually: “Emotional Overload” meltdown (optional reset moment)
 
-🎭 Game Flow Script (Player Experience)
+## 🎭 Game Flow Script (Player Experience)
 1. Welcome Screen:
 ✨ “Meet your new drag pet. She’s dramatic, divine, and needs constant sparkle.”
 🎤 Button: Start the Glam
@@ -75,8 +73,8 @@ Time passes → stats slowly decay
 
 Player keeps interacting → pet stays fabulous
 
-🎨 Visual Mockup Descriptions (No images — just the ideas)
-Main Screen:
+## 🎨 Visual Mockup Descriptions (No images — just the ideas)
+### Main Screen:
 Background: a glowing pastel dressing room OR stage with floating disco lights
 
 Drag pet in center: changes facial expression + makeup based on mood
@@ -94,7 +92,7 @@ Makeup: pet’s face goes from smudged to flawless
 
 Mirror: pet looks into mirror and says a dramatic one-liner based on mood
 
-💅 Character Emotional States (No clinical labels — just fabulous moods)
+## 💅 Character Emotional States (No clinical labels — just fabulous moods)
 Mood	Appearance	Pet Behavior
 Radiant	Full glam, sparkles, glowing	“Who wants a show?” 💃 Spins, smiles
 Low Energy	Sparkle dimmed, bags under eyes	“Can I lie down in glitter?” 😩
