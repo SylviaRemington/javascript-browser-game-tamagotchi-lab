@@ -5,7 +5,9 @@
 
 ### The goal is not to win, but to keep your pet fabulous, emotionally nourished, and stage-ready… unless it has a meltdown. In that case? Reapply mascara, feed it some glitter, and try again.
 
+<br/>
 <hr>
+<br/>
 
 ## 🧠 Pseudocode 
 
@@ -41,9 +43,11 @@ Stats drop slowly
 - Pet starts getting shady, weepy, or dramatically silent
 
 - Eventually: “Emotional Overload” meltdown (optional reset moment)
+
 <br/>
 <hr>
 <br/>
+
 ## 🎭 Game Flow Script (Player Experience)
 ### 1. Welcome Screen:
 ✨ “Meet your new drag pet. She’s dramatic, divine, and needs constant sparkle.”
@@ -75,7 +79,9 @@ Input: “What’s her name?”
 
 - Player keeps interacting → pet stays fabulous
 
+<br/>
 <hr>
+<br/>
 
 ## 🎨 Visual Mockup Descriptions (No images — just the ideas)
 ### Main Screen:
@@ -96,7 +102,9 @@ Makeup: pet’s face goes from smudged to flawless
 
 Mirror: pet looks into mirror and says a dramatic one-liner based on mood
 
+<br/>
 <hr>
+<br/>
 
 ## 💅 Character Emotional States (No clinical labels — just fabulous moods)
 Mood	Appearance	Pet Behavior
