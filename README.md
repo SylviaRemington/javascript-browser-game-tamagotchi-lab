@@ -109,11 +109,14 @@ Mirror: pet looks into mirror and says a dramatic one-liner based on mood
 
 | Mood | Appearance | Pet Behavior | 
 | ----------- | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Radiant | Full glam, sparkles, glowing  | “Who wants a show?” 💃 Spins, smiles |
+| Paragraph | Text | Title |
+|  | Title | Title |
+|  | Title | Title |
+|  | Title | Title |
+|  | Title | Title |
 
-
-- Radiant	Full glam, sparkles, glowing	“Who wants a show?” 💃 Spins, smiles
+- Radiant -	Full glam, sparkles, glowing - “Who wants a show?” 💃 Spins, smiles
 
 - Low Energy	Sparkle dimmed, bags under eyes	“Can I lie down in glitter?” 😩
 
