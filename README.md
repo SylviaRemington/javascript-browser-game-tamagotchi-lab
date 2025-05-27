@@ -9,7 +9,7 @@
 
 ## 🧠 Pseudocoded Prototype (In Plain English)
 
-###When the game starts:
+### When the game starts:
 
 - Show your drag pet on screen
 
@@ -31,19 +31,19 @@
 
 ### Behind the scenes:
 
-If Mood or Energy drops too low → makeup starts to fade, dance fails, pet sighs dramatically
+- If Mood or Energy drops too low → makeup starts to fade, dance fails, pet sighs dramatically
 
-If Sparkle is full → unlocks new outfits, special disco ball dance mode
+- If Sparkle is full → unlocks new outfits, special disco ball dance mode
 
-If player ignores the pet:
+- If player ignores the pet:
 Stats drop slowly
 
-Pet starts getting shady, weepy, or dramatically silent
+- Pet starts getting shady, weepy, or dramatically silent
 
-Eventually: “Emotional Overload” meltdown (optional reset moment)
+- Eventually: “Emotional Overload” meltdown (optional reset moment)
 
 ## 🎭 Game Flow Script (Player Experience)
-1. Welcome Screen:
+### 1. Welcome Screen:
 ✨ “Meet your new drag pet. She’s dramatic, divine, and needs constant sparkle.”
 🎤 Button: Start the Glam
 
