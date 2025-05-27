@@ -106,11 +106,22 @@ Mirror: pet looks into mirror and says a dramatic one-liner based on mood
 <br/>
 
 ## 💅 Character Emotional States (No clinical labels — just fabulous moods)
-Mood	Appearance	Pet Behavior
-Radiant	Full glam, sparkles, glowing	“Who wants a show?” 💃 Spins, smiles
-Low Energy	Sparkle dimmed, bags under eyes	“Can I lie down in glitter?” 😩
-Sad	Makeup running, lashes drooping	“Don’t look at me unless you brought snacks.”
-Fierce	Costume glows, eyes flash	“Who said I’m too much? Name them.”
-Meltdown	Wig crooked, glitter explosion	“I can’t sparkle for everyone, okay?!” 😭
-Recovering	Soft glow returns, soft blush	“Thank you for seeing me… Now more glitter please.”
+
+| Mood | Appearance | Pet Behavior | 
+| ----------- | ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
+
+- Radiant	Full glam, sparkles, glowing	“Who wants a show?” 💃 Spins, smiles
+
+- Low Energy	Sparkle dimmed, bags under eyes	“Can I lie down in glitter?” 😩
+
+- Sad	Makeup running, lashes drooping	“Don’t look at me unless you brought snacks.”
+
+- Fierce	Costume glows, eyes flash	“Who said I’m too much? Name them.”
+
+- Meltdown	Wig crooked, glitter explosion	“I can’t sparkle for everyone, okay?!” 😭
+
+- Recovering	Soft glow returns, soft blush	“Thank you for seeing me… Now more glitter please.”
 
