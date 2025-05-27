@@ -47,31 +47,31 @@ Stats drop slowly
 ✨ “Meet your new drag pet. She’s dramatic, divine, and needs constant sparkle.”
 🎤 Button: Start the Glam
 
-2. Name Your Pet:
+### 2. Name Your Pet:
 Input: “What’s her name?”
 (Glitter sparkles around the name box)
 
-3. Main Game Screen:
+### 3. Main Game Screen:
 
-Pet appears on a stage or in a dressing room
+- Pet appears on a stage or in a dressing room
 
-Stats shown as glowing bars or hearts
+- Stats shown as glowing bars or hearts
 
-Buttons: [Feed Glitter] [Dance] [Rest] [Do Makeup] [Mirror Check]
+- Buttons: [Feed Glitter] [Dance] [Rest] [Do Makeup] [Mirror Check]
 
-4. Player interacts → Pet reacts in real time:
+### 4. Player interacts → Pet reacts in real time:
 
-“Oooh yes, feed me that shimmer, baby!”
+- “Oooh yes, feed me that shimmer, baby!”
 
-“Low energy… Can’t… Sparkle…”
+- “Low energy… Can’t… Sparkle…”
 
-“Not me melting down mid-slay…”
+- “Not me melting down mid-slay…”
 
-5. Game loops continuously:
+### 5. Game loops continuously:
 
-Time passes → stats slowly decay
+- Time passes → stats slowly decay
 
-Player keeps interacting → pet stays fabulous
+- Player keeps interacting → pet stays fabulous
 
 ## 🎨 Visual Mockup Descriptions (No images — just the ideas)
 ### Main Screen:
