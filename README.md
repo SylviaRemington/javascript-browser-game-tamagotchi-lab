@@ -41,9 +41,9 @@ Stats drop slowly
 - Pet starts getting shady, weepy, or dramatically silent
 
 - Eventually: “Emotional Overload” meltdown (optional reset moment)
-
+<br/>
 <hr>
-
+<br/>
 ## 🎭 Game Flow Script (Player Experience)
 ### 1. Welcome Screen:
 ✨ “Meet your new drag pet. She’s dramatic, divine, and needs constant sparkle.”
