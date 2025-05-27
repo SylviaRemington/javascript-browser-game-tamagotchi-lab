@@ -7,7 +7,7 @@
 
 <hr>
 
-## 🧠 Pseudocoded Prototype (In Plain English)
+## 🧠 Pseudocode 
 
 ### When the game starts:
 
@@ -42,6 +42,8 @@ Stats drop slowly
 
 - Eventually: “Emotional Overload” meltdown (optional reset moment)
 
+<hr>
+
 ## 🎭 Game Flow Script (Player Experience)
 ### 1. Welcome Screen:
 ✨ “Meet your new drag pet. She’s dramatic, divine, and needs constant sparkle.”
@@ -73,6 +75,8 @@ Input: “What’s her name?”
 
 - Player keeps interacting → pet stays fabulous
 
+<hr>
+
 ## 🎨 Visual Mockup Descriptions (No images — just the ideas)
 ### Main Screen:
 Background: a glowing pastel dressing room OR stage with floating disco lights
@@ -91,6 +95,8 @@ Dancing: pet spins, vogue hands, sparkly trail follows
 Makeup: pet’s face goes from smudged to flawless
 
 Mirror: pet looks into mirror and says a dramatic one-liner based on mood
+
+<hr>
 
 ## 💅 Character Emotional States (No clinical labels — just fabulous moods)
 Mood	Appearance	Pet Behavior
