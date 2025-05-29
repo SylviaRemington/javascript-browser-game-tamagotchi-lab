@@ -1,3 +1,5 @@
+Working on this as a side project to better understand JavaScript and all its functionality.
+
 ## 🎮 Game Overview — “Glitzarella” (Working Title)
 ### This is a magical, browser-based drag-pet game where you care for a fabulous drag queen creature. Instead of food, you feed it glitter. Instead of health, you manage sparkle, mood, and energy. You interact with the pet through mini actions like dancing, mirror talk, makeup touch-ups, or dramatic rest.
 
